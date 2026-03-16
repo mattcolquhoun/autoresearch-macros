@@ -11,6 +11,7 @@ Primary Objective: Identify "Feature Gaps" between GRADIAL (our product) and Top
 ## Constraints
 - Focus on "Actionable Gaps": Only report features rivals have that we do not, or vice versa.
 - Verifiability: Every claim must include a source URL in the research log.  Any claims must be direct URL verifiable.  Do not make claims unless can direct link to the source. 
+- record every direct URL in the output files like competitor_matrix.csv
 - Experiment Box: You have 12 "Scout" cycles per hour. Prioritize high-traffic community forums first.
 
 ## Evaluation Metric (Success)
